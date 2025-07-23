@@ -29,7 +29,7 @@ This tool provides a user-friendly, console‐based setup for Windows machines. 
 1. Clone the repo:
 
     ```bash
-    git clone [https://github.com/yourusername/computer-setup.git](https://github.com/Sinless777/Computer-Setup.git)
+    git clone https://github.com/Sinless777/Computer-Setup.git
     ```
 2. Open the solution in Visual Studio 2022.
 3. Ensure all `.cpp` files are included under **Source Files**.
