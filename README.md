@@ -64,10 +64,8 @@ Run the compiled `Computer Setup.exe` (or debug via Visual Studio):
 
 ## 📝 License
 
-Unless otherwise noted, this project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+Unless otherwise noted, this project is licensed under the **Apache 2.0**. See [LICENSE](LICENSE) for details.
 
 ---
 
 *Happy setting up!*
-
-```
